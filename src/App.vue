@@ -23,5 +23,15 @@ export default {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #2c3e50;
+
+}
+
+#main {
+    padding-top: 56px;
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: bold;
 }
 </style>
