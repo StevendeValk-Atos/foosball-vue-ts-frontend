@@ -6,6 +6,9 @@
                 <li>
                     <a href="/">Home</a>
                 </li>
+                <li>
+                    <a href="/players">Players</a>
+                </li>
             </ul>
         </nav>
     </header>
@@ -25,6 +28,12 @@ header {
     width: 100%;
 
     box-shadow: 0 1px 6px 0 rgba(32, 33, 36, 0.28);
+
+    ul {
+        display: flex;
+        flex-direction: row;
+    }
+
 
     a {
         padding: 0.5rem;
