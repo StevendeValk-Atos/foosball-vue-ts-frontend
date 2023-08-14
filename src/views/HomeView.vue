@@ -1,5 +1,5 @@
 <template>
-    <div class="home">
+    <div class="home container">
         <h1>Welcome to Foosball!</h1>
         <p>
             Hello and welcome to Foosball!, the app that lets you enjoy the fun
@@ -42,10 +42,8 @@
 
 <style lang="scss" scoped>
 .home {
-    margin: 2rem;
-    padding: 2rem;
     background-color: #ceedf8;
-
+    
     p {
         margin: 1rem 0;
     }

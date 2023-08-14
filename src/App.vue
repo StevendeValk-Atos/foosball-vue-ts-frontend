@@ -26,6 +26,13 @@ export default {
 
 }
 
+.container {
+    margin: 2rem;
+    padding: 2rem;
+    border-radius: 1rem;
+    background-color: rgb(228, 228, 228);
+}
+
 #main {
     padding-top: 56px;
 }
